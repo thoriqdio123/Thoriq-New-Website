@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Muhammad Thoriq Dio Rasyid</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 40px 20px;
+    }
+    section {
+      margin: 40px auto;
+      max-width: 600px;
+      background: white;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      margin-top: 50px;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Muhammad Thoriq Dio Rasyid</h1>
+    <p>Konten Kreator | Storyteller Visual | Anak Muda yang Punya Suara</p>
+  </header>
+
+  <section>
+    <h2>Hai, aku Thoriq Dio 👋</h2>
+    <p>Aku suka bikin konten yang jujur, seru, dan ngasih energi positif buat yang nonton.</p>
+    <p>Kontenku seputar kehidupan remaja, teknologi, dan hal-hal kecil yang kadang justru penting banget.</p>
+    <p>Yuk, kenalan lebih dekat dan jadi bagian dari perjalanan kreatifku!</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Muhammad Thoriq Dio Rasyid
+  </footer>
+<
