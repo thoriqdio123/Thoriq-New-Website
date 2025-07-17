@@ -48,4 +48,11 @@
   <footer>
     &copy; 2025 Muhammad Thoriq Dio Rasyid
   </footer>
-<
+<section>
+  <h2>Kirim Perintah ke Qwen 🤖</h2>
+  <form action="https://qwen-site-agent.jip.repl.co/update" method="POST">
+    <textarea name="command" rows="4" cols="50" placeholder="Contoh: Ganti warna latar jadi ungu pastel"></textarea><br><br>
+    <button type="submit">Kirim Perintah</button>
+  </form>
+</section>
+
